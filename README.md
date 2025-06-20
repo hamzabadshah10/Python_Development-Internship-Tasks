@@ -1,23 +1,46 @@
-<h1 align="center">👋 Hi, I'm Hamza Badshah</h1>
+# Hi, I'm Hamza Badshah 👋
 
-<p align="center">
-  🎓 BS Software Engineering Student (4th Semester)<br>
-  💡 Tech Enthusiast | Backend Learner | Problem Solver<br>
-  📍 PAF-IAST | Pakistan
-</p>
+**Software Engineering Student** @ Pak-Austria Fachhochschule  
+**Python Developer | Tech Enthusiast | Problem Solver**  
 
 ---
 
-## 🧠 About Me
+## 🔍 About Me  
+I'm Hamza Badshah, a 4th-semester Software Engineering student passionate about leveraging technology to solve real-world problems. My focus areas include **Python programming, web development, and databases**, with a growing interest in **AI, Machine Learning, and IoT**. I thrive on learning new technologies and applying them to build smart, scalable systems.  
 
-I'm a 4th-semester Software Engineering student at Pak-Austria Fachhochschule. I’m passionate about learning how to build systems that solve real-world problems using tech. I currently focus on Python, C++, and web development basics.
+---
 
-I'm enthusiastic about:
+## 🛠️ Tech Stack & Skills  
 
-- 💻 Python & C++ for application logic
-- 🌐 HTML, CSS, and JavaScript for frontend work
-- 🚀 Exploring automation & smart systems
-- 📚 Learning new tech stacks every week
+### Languages & Frameworks  
+- **Python** (OOP, File Handling, Scripts)  
+- **C++**  
+- **Web Dev**: HTML, CSS, JavaScript  
+- **Backend**: PHP, Laravel  
+
+### Databases  
+- MySQL, phpMyAdmin  
+
+### Tools & Interests  
+- **AI/ML**: Exploring fundamentals of Machine Learning and Deep Learning  
+- **IoT**: Interest in smart systems and embedded projects  
+- **Problem Solving**: Competitive programming and algorithmic challenges  
+
+---
+
+## 🌱 Currently Learning  
+- Advanced Python for AI/ML applications  
+- Web development with Laravel  
+- Database optimization and design  
+- Basics of IoT and smart systems  
+
+---
+
+## 🚀 Career Goals  
+My long-term vision is to specialize in **Artificial Intelligence and Machine Learning**, contributing to innovative projects in:  
+- AI-driven automation  
+- Smart IoT systems  
+- Data-centric solutions  
 
 ---
 
@@ -33,41 +56,15 @@ I'm enthusiastic about:
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </p>
 
----
+## 📫 Let's Connect!  
+I’m always open to collaborations, discussions, or just chatting about tech!  
 
-## 🚧 Featured Projects
-
-> I’ll be uploading projects soon, including:
-- A Smart AC Automation Project
-- A Lost & Found Web System
-- Python mini tools and scripts
+- **LinkedIn**: [Hamza Badshah](https://www.linkedin.com/in/hamza-badshah-8aa304286)  
+- **Email**: [hamzabadshah2592@gmail.com](mailto:hamzabadshah2592@gmail.com)  
 
 ---
 
-## 📈 GitHub Stats
+## 💡 Quote I Code By  
+> *"The best way to predict the future is to build it."*  
 
-![Hamza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hassanali167&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hassanali167&layout=compact&theme=radical)
-
----
-
-## 🌱 Currently Learning
-
-- 🔁 Version Control with Git
-- 🖥️ Web development (HTML/CSS/JS)
-- 🧠 Python OOP, File Handling & Scripts
-- 🧩 Database (MySQL, phpMyAdmin)
-- 🚀 Soon: PHP & Laravel
-
----
-
-## 📬 Connect With Me
-
-- 📧 Email: **hamzabadshah2592@gmail.com**
-- 🔗 LinkedIn: *(coming soon)*
-
----
-
-<p align="center">
-  Thanks for stopping by! Feel free to explore and star my projects! ⭐
-</p>
+Thanks for visiting my GitHub! Let’s build something amazing together.  
