@@ -1,70 +1,106 @@
-# Hi, I'm Hamza Badshah 👋
+# 🚀 Hi, I'm Hamza Badshah <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-**Software Engineering Student** @ Pak-Austria Fachhochschule  
-**Python Developer | Tech Enthusiast | Problem Solver**  
-
----
-
-## 🔍 About Me  
-I'm Hamza Badshah, a 4th-semester Software Engineering student passionate about leveraging technology to solve real-world problems. My focus areas include **Python programming, web development, and databases**, with a growing interest in **AI, Machine Learning, and IoT**. I thrive on learning new technologies and applying them to build smart, scalable systems.  
-
----
-
-## 🛠️ Tech Stack & Skills  
-
-### Languages & Frameworks  
-- **Python** (OOP, File Handling, Scripts)  
-- **C++**  
-- **Web Dev**: HTML, CSS, JavaScript  
-- **Backend**: PHP, Laravel  
-
-### Databases  
-- MySQL, phpMyAdmin  
-
-### Tools & Interests  
-- **AI/ML**: Exploring fundamentals of Machine Learning and Deep Learning  
-- **IoT**: Interest in smart systems and embedded projects  
-- **Problem Solving**: Competitive programming and algorithmic challenges  
+<h3 align="center">
+  <strong>Software Engineering Student</strong> @ Pak-Austria Fachhochschule | 
+  <strong>Python Developer</strong> | 
+  <strong>Tech Enthusiast</strong> | 
+  <strong>Problem Solver</strong>
+</h3>
 
 ---
 
-## 🌱 Currently Learning  
-- Advanced Python for AI/ML applications  
-- Web development with Laravel  
-- Database optimization and design  
-- Basics of IoT and smart systems  
-
----
-
-## 🚀 Career Goals  
-My long-term vision is to specialize in **Artificial Intelligence and Machine Learning**, contributing to innovative projects in:  
-- AI-driven automation  
-- Smart IoT systems  
-- Data-centric solutions  
-
----
-
-## 🧰 Tech Stack & Tools
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+## 🔍 About Me
+<p align="justify">
+  <img align="right" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Hamza's Top Languages"/>
+  
+  I'm a passionate 4th-semester Software Engineering student with a strong foundation in Python development and web technologies. My journey in tech focuses on building practical solutions while expanding my expertise in emerging fields like AI/ML and IoT. I approach every project with a problem-solving mindset, aiming to create efficient, scalable systems.
 </p>
 
-## 📫 Let's Connect!  
-I’m always open to collaborations, discussions, or just chatting about tech!  
+---
 
-- **LinkedIn**: [Hamza Badshah](https://www.linkedin.com/in/hamza-badshah-8aa304286)  
-- **Email**: [hamzabadshah2592@gmail.com](mailto:hamzabadshah2592@gmail.com)  
+## 🛠️ Tech Stack & Skills
+
+### 📚 Languages & Frameworks
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
+</p>
+
+### 🗃️ Databases
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white" alt="phpMyAdmin"/>
+</p>
+
+### 🔧 Tools & Platforms
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode"/>
+</p>
 
 ---
 
-## 💡 Quote I Code By  
-> *"The best way to predict the future is to build it."*  
+## 🌱 Currently Learning
+<p>
+  <img src="https://img.shields.io/badge/Python_AI/ML-FFD43B?style=flat&logo=python&logoColor=blue" alt="Python AI/ML"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" alt="Laravel"/>
+  <img src="https://img.shields.io/badge/IoT-FF6F00?style=flat&logo=arduino&logoColor=white" alt="IoT"/>
+  <img src="https://img.shields.io/badge/Database_Design-336791?style=flat&logo=mysql&logoColor=white" alt="Database Design"/>
+</p>
 
-Thanks for visiting my GitHub! Let’s build something amazing together.  
+---
+
+## 🚀 Career Aspirations
+<div align="center">
+  <table>
+    <tr>
+      <td width="33%" align="center">
+        <strong>🤖 AI/ML Specialist</strong><br/>
+        Developing intelligent systems
+      </td>
+      <td width="33%" align="center">
+        <strong>🌐 Full-Stack Developer</strong><br/>
+        Building robust web applications
+      </td>
+      <td width="33%" align="center">
+        <strong>🔌 IoT Engineer</strong><br/>
+        Creating smart connected devices
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" />
+</p>
+
+---
+
+## 📫 Let's Connect!
+<p align="center">
+  <a href="https://www.linkedin.com/in/hamza-badshah-8aa304286">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:hamzabadshah2592@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+---
+
+## 💡 Developer Philosophy
+<blockquote align="center">
+  <i>"The best way to predict the future is to build it."</i>
+</blockquote>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
