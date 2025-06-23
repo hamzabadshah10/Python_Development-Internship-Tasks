@@ -96,6 +96,6 @@
 
 ## 💡 Developer Philosophy
 <blockquote align="center">
-  <i>"The best way to predict the future is to build it.
+  <i>"The best way to predict the future is to build it."
 
 ---
