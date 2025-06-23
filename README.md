@@ -74,14 +74,6 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=hamzabadshah10&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" />
-</p>
-
----
-
 ## 📫 Let's Connect!
 <p align="center">
   <a href="https://www.linkedin.com/in/hamza-badshah-8aa304286">
