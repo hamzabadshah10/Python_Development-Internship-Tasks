@@ -10,9 +10,7 @@
 ---
 
 ## 🔍 About Me
-<p align="justify">
-  <img align="right" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Hamza's Top Languages"/>
-  
+
   I'm a passionate 4th-semester Software Engineering student with a strong foundation in Python development and web technologies. My journey in tech focuses on building practical solutions while expanding my expertise in emerging fields like AI/ML and IoT. I approach every project with a problem-solving mindset, aiming to create efficient, scalable systems.
 </p>
 
