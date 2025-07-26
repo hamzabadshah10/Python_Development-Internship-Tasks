@@ -1,0 +1,30 @@
+
+# ========================================
+# 📝 Project: To-Do List Manager Webapp
+# ========================================
+# Description: A task management web application built using Python and Gradio.
+# Features: Add, complete, delete, and update tasks with a real-time UI.
+
+# -------------------------------
+# 📦 Python Dependencies
+# -------------------------------
+# These are the libraries required to run the application
+
+gradio==5.38.1
+
+
+# -------------------------------
+# ⚙️ Python Runtime Version
+# -------------------------------
+# Python version (used by Hugging Face Spaces)
+
+python-3.10
+
+
+# ----------------------------------------
+# 📁 File Structure (for reference only)
+# ----------------------------------------
+# app.py           → Main application script
+# requirements.txt → Python dependencies (this file)
+# README.md        → Project overview and usage instructions
+
