@@ -16,11 +16,12 @@ A clean and simple task management application built with **Python** and **Gradi
 
 ---
 
-## 📷 App Preview
+## 📸 App Preview
 
-git add project-snippet/screenshot.png
-git commit -m "Add screenshot image for README preview"
-git push
+<p align="center">
+  <img src="project-snippet/screenshot.png" alt="App Screenshot" width="600"/>
+</p>
+
 
 ---
 
