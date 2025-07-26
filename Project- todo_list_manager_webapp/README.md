@@ -16,11 +16,10 @@ A clean and simple task management application built with **Python** and **Gradi
 
 ---
 
-## 📸 App Preview
+## 📷 App Preview
 
-<p align="center">
-  <img src="project-snippet/screenshot.png" alt="App Screenshot" width="600"/>
-</p>
+![App Screenshot](project-snippet/screenshot.png(!)/)
+
 
 
 ---
