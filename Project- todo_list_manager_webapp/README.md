@@ -20,7 +20,6 @@ A clean and simple task management application built with **Python** and **Gradi
 
 ![App Screenshot](project-snippet/screenshot.png)
 
-
 ---
 
 ## 📁 Project Structure
