@@ -117,7 +117,7 @@ This project is licensed under the [MIT License](LICENSE).
 ## 🙋‍♂️ Author
 
 **Hamza Badshah**  
-*BS Software Engineering Student*  
+*Software Engineer*  
 *Email: hamzabadshah2592@gmail.com*
 
 ---
