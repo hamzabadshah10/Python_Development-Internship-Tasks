@@ -18,8 +18,8 @@ A clean and simple task management application built with **Python** and **Gradi
 
 ## 📷 App Preview
 
-![App Screenshot](screenshot.png)  
-*Replace this with your own screenshot.*
+![App Screenshot](project-snippet/screenshot.png)
+
 
 ---
 
