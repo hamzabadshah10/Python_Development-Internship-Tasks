@@ -18,7 +18,10 @@ A clean and simple task management application built with **Python** and **Gradi
 
 ## 📷 App Preview
 
-![To-Do List Screenshot](https://github.com/hamzabadshah10/Python_Development-Internship-Tasks/blob/main/Project-%20todo_list_manager_webapp/Project_Snippets/todo_list_manager_webapp%20(1).png?raw=true)
+![To-Do List Screenshot 1](https://github.com/hamzabadshah10/Python_Development-Internship-Tasks/blob/main/Project-%20todo_list_manager_webapp/Project_Snippets/todo_list_manager_webapp%20(1).png?raw=true)
+
+![To-Do List Screenshot 2](https://github.com/hamzabadshah10/Python_Development-Internship-Tasks/blob/main/Project-%20todo_list_manager_webapp/Project_Snippets/todo_list_manager_webapp%20(2).png?raw=true)
+
 
 ---
 
